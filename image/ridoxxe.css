@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+    font-family: inter;
+}
+    
+
+body{
+    background-color: hsl(0, 2%, 9%);
+}
+h2{
+    color: hsl(0, 0%, 100%);
+}
+h3{
+    color: hsl(75, 94%, 57%);
+}
+h4{
+    color: hsl(0, 0%, 20%);}
+
+.jessica_img1{
+    padding: 20px;
+    border-radius: 100%;
+    width: 100px;
+    }
+
+.jessica{
+    background-color: hsl(0, 0%, 20%);
+    width: 400px;
+    margin: auto;
+    margin-top: 60px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5%;
+    
+}
+.jessica1{
+    background-color:hsl(0, 0%, 12%);
+    color: antiquewhite;
+    padding: 10px 10px;
+    font-weight: 400;
+    border: none;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 12px;
+    
+}
+.btns{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
